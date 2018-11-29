@@ -1,0 +1,22 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  text-align: center
+ }
+
+
+.books-container {
+ list-style: none;
+ padding: 1%;
+}
+
+.header{
+  font-size: 200%;
+  margin: 0%;
+  width:100%;
+  padding: 1%;
+  text-align: left;
+  background-color: rgba(50, 205, 50, 0.712);
+}
+
+
